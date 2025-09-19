@@ -1,0 +1,7 @@
+{
+  "interval_minutes": 20,
+  "display_seconds": 8,
+  "message": "Gerader Rücken!",
+  "sound": true,
+  "close_on_hover": false
+}
