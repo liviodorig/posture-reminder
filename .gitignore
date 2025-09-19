@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 
+# Config files
+/config.json
+
 # macOS
 .DS_Store
 
