@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 
 # Config files
-/config.json
+config.json
 
 # macOS
 .DS_Store
